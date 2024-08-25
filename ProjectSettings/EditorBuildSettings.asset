@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SelectMenu.unity
+    guid: 66ed5c9b904de1d4db9114984732218c
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: e3b6c71399c2b534a97ad34832abeea6
+  - enabled: 1
+    path: Assets/Scenes/madeby.unity
+    guid: db44b1d5e34998a46aa906ab85cdc03d
+  - enabled: 1
+    path: Assets/Scenes/MadebyScene.unity
+    guid: db44b1d5e34998a46aa906ab85cdc03d
+  - enabled: 1
+    path: Assets/Scenes/SettingMenu.unity
+    guid: f93087d0fefd1e6408eb78921c27b252
   m_configObjects: {}

@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/BattleScene.unity
     guid: e3b6c71399c2b534a97ad34832abeea6
   - enabled: 1
-    path: Assets/Scenes/MadebyScene.unity
+    path: Assets/Scenes/madeby.unity
     guid: db44b1d5e34998a46aa906ab85cdc03d
   - enabled: 1
     path: Assets/Scenes/MadebyScene.unity
@@ -23,5 +23,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SettingMenu.unity
     guid: f93087d0fefd1e6408eb78921c27b252
-  m_configObjects:
-    com.unity.input.settings: {fileID: 11400000, guid: b732bfdddc2985c46928c78e5502d784, type: 2}
+  m_configObjects: {}
